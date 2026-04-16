@@ -107,9 +107,9 @@ function App() {
   ]);
 
   return (
-    <div className="flex flex-col gap-8 mt-4 w-full md:w-5/6 px-4 md:px-0 self-center">
+    <div className="flex flex-col gap-8 mt-2 w-full md:w-5/6 px-4 md:px-0 self-center">
       <div className="-mb-2">
-        <h1>Distribution-based Computation Playground</h1>
+        <h1 className="leading-14">Distribution-based Computation Playground</h1>
       </div>
 
       <div className="flex flex-col gap-8">
